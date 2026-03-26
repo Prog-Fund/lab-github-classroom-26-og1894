@@ -267,9 +267,3 @@ public class NewsFeed {
     }
 
 }
-
-//hugcuhvsducsuhdcvugyd
-//hfhfdghfhfh
-//dihfsgdyuwrygy
-//jfnhdhf
-//huguggyfytf
